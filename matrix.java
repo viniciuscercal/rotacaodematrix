@@ -11,9 +11,9 @@ class matrix {
         }
     }
     public static void main(String[] args){
-        int arr[][] = { { 1, 2, 3 },
-                        { 5, 6, 7 },
-                        { 9, 10, 11 } };
+        int arr[][] = { { 10, 33, 9 },
+                        { 13, 17, 88 },
+                        { 8, 3, 99 } };
         rotar90horario(arr);
     }
 }
